@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+h1, h4 {
+    text-align: center;
+}
+
+div.content {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+table {
+    width: 80vw;
+    border: 1px solid black;
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+tr {
+    height: 50px;
+}
+
+td {
+    text-align: center;
+    padding: 5px;
+}
+
+.form {
+    margin-top: 20px;
+}
+
+#content {
+    width: 70%;
+}
